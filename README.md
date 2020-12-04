@@ -3,8 +3,9 @@
 
 
 
-- 🔭 Open Source Contributors: 
-  - [`vue3.x`](https://github.com/vuejs/vue-next) 
+- 🔭 Contributed To: 
+  - [`vue-next`](https://github.com/vuejs/vue-next) 
+  - [`vite`](https://github.com/vitejs/vite) 
   - [`abpframework/abp`](https://github.com/abpframework/abp)
 - 💬 Ask me about everything
 - 📫 How to reach me: `daiwei521@126.com`
