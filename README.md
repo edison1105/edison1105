@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Edison, a member of [**@vuejs**](https://github.com/vuejs?type=source). I'm a full-stack developer. Participate in some open source projects in my spare time.
-Recently focusing on [vue-next](https://github.com/vuejs/vue-next)
+Currently focusing on [vue-next](https://github.com/vuejs/vue-next)
 - 💬 Ask me about everything
 - 📫 How to reach me: `daiwei521@126.com`
 - 💻 Keep Learning
