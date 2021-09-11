@@ -1,6 +1,13 @@
 <h1 align="center">❤Hi 👋, I'm Edison!❤</h1>
 <br>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 <img src="http://github-readme-streak-stats.herokuapp.com?user=edison1105&theme=vue&hide_border=true&background=273849&dates=FFFFFF&stroke=41B883" align="right" width="360px">
 
 - 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer.
