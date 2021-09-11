@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edison!</h1>
 <br>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=edison1105&theme=vue&hide_border=true&background=273849&dates=FFFFFF&stroke=41B883" align="right" width="410px">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=edison1105&theme=vue&hide_border=true&background=273849&dates=FFFFFF&stroke=41B883" align="right" width="370px">
 
 - ✍️ A full-stack developer, member of [**@vuejs**](https://github.com/vuejs?type=source).
 - 🏆 Currently focusing on [vue-next](https://github.com/vuejs/vue-next)
