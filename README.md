@@ -1,15 +1,13 @@
 <h1 align="center">❤Hi 👋, I'm Edison!❤</h1>
 <br>
 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=edison1105&theme=vue&hide_border=true&background=273849&dates=FFFFFF&stroke=41B883" align="right" width="360px">
+
 - 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer.
 - 🌱 Currently focusing on [vue-next](https://github.com/vuejs/vue-next)
 - 📫 Reach me: daiwei521@126.com
 - 💻 Keep Learning. 
 - 💬 Ask me about everything
-
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=edison1105&theme=vue&hide_border=true&background=273849&dates=FFFFFF&stroke=41B883" align="right" width="360px">
-
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
