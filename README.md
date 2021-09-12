@@ -1,21 +1,19 @@
 <h1 align="center">❤Hi 👋, I'm Edison!❤</h1>
 <br>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="left"> ❤ About Me </h3>
 
-
-<table width="100%">
-  <tr>
-    <td valign="top">
-  
-### ❤ About Me
-- 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer.
+- 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer. Interested in @vuejs / @dotnet / @nodejs / typescript
 - 🌱 Currently focusing on [vue-next](https://github.com/vuejs/vue-next)
 - 📫 Reach me: daiwei521@126.com
-- 💻 Keep Learning. 
 - 💬 Ask me about everything
-    <td valign="top">
+</td>
+<td width="50%" valign="top">
+  <h3 align="left"> :zap: Recent Activity </h3>
   
-### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#4560](https://github.com/vuejs/vue-next/pull/4560) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 2. 🗣 Commented on [#4556](https://github.com/vuejs/vue-next/issues/4556) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
@@ -23,8 +21,9 @@
 4. 🗣 Commented on [#3577](https://github.com/vuejs/vue-next/issues/3577) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 5. ❗️ Reopened issue [#4423](https://github.com/vuejs/vue-next/issues/4423) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!--END_SECTION:activity-->
-
-  </tr>
+      
+</td>
+</tr>
 </table>
 
 
