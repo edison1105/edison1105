@@ -6,7 +6,7 @@
 <td width="50%" valign="top">
   <h3 align="left"> ❤ About Me </h3>
 
-- 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer. Interested in @vuejs / @dotnet / @nodejs / typescript
+- 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer. Interested in [vuejs](https://github.com/vuejs) / [dotnet](https://github.com/dotnet) / [nodejs](https://github.com/nodejs) / [TypeScript](https://github.com/microsoft/TypeScript)
 - 🌱 Currently focusing on [vue-next](https://github.com/vuejs/vue-next)
 - 📫 Reach me: daiwei521@126.com
 - 💬 Ask me about everything
