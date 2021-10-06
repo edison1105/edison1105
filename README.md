@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3572](https://github.com/vuejs/vue-next/pull/3572) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-2. 🗣 Commented on [#4712](https://github.com/vuejs/vue-next/issues/4712) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+1. 💪 Opened PR [#4742](https://github.com/vuejs/vue-next/pull/4742) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+2. ❌ Closed PR [#3572](https://github.com/vuejs/vue-next/pull/3572) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 3. 🗣 Commented on [#4712](https://github.com/vuejs/vue-next/issues/4712) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-4. 🗣 Commented on [#3874](https://github.com/vuejs/vue-next/issues/3874) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-5. 💪 Opened PR [#4698](https://github.com/vuejs/vue-next/pull/4698) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+4. 🗣 Commented on [#4712](https://github.com/vuejs/vue-next/issues/4712) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+5. 🗣 Commented on [#3874](https://github.com/vuejs/vue-next/issues/3874) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!--END_SECTION:activity-->
       
 </td>
