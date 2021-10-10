@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3796](https://github.com/vuejs/awesome-vue/pull/3796) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-2. ❗️ Closed issue [#4776](https://github.com/vuejs/vue-next/issues/4776) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-3. 🗣 Commented on [#4776](https://github.com/vuejs/vue-next/issues/4776) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-4. 🗣 Commented on [#4771](https://github.com/vuejs/vue-next/issues/4771) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-5. 🗣 Commented on [#4770](https://github.com/vuejs/vue-next/issues/4770) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+1. 🗣 Commented on [#4777](https://github.com/vuejs/vue-next/issues/4777) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+2. 🎉 Merged PR [#3796](https://github.com/vuejs/awesome-vue/pull/3796) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+3. ❗️ Closed issue [#4776](https://github.com/vuejs/vue-next/issues/4776) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+4. 🗣 Commented on [#4776](https://github.com/vuejs/vue-next/issues/4776) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+5. 🗣 Commented on [#4771](https://github.com/vuejs/vue-next/issues/4771) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!--END_SECTION:activity-->
       
 </td>
