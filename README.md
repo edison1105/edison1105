@@ -16,8 +16,8 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4679](https://github.com/vuejs/vue-next/issues/4679) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-2. 🗣 Commented on [#4802](https://github.com/vuejs/vue-next/issues/4802) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-3. 🗣 Commented on [#4799](https://github.com/vuejs/vue-next/issues/4799) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+2. 🗣 Commented on [#4679](https://github.com/vuejs/vue-next/issues/4679) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+3. 🗣 Commented on [#4802](https://github.com/vuejs/vue-next/issues/4802) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 4. 🗣 Commented on [#4799](https://github.com/vuejs/vue-next/issues/4799) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 5. 🗣 Commented on [#4799](https://github.com/vuejs/vue-next/issues/4799) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!--END_SECTION:activity-->
