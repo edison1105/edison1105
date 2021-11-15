@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4942](https://github.com/vuejs/vue-next/issues/4942) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+1. 🗣 Commented on [#851](https://github.com/vuejs/composition-api/issues/851) in [vuejs/composition-api](https://github.com/vuejs/composition-api)
 2. 🗣 Commented on [#4942](https://github.com/vuejs/vue-next/issues/4942) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-3. 🎉 Merged PR [#3817](https://github.com/vuejs/awesome-vue/pull/3817) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-4. 💪 Opened PR [#4941](https://github.com/vuejs/vue-next/pull/4941) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-5. 🗣 Commented on [#4933](https://github.com/vuejs/vue-next/issues/4933) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+3. 🗣 Commented on [#4942](https://github.com/vuejs/vue-next/issues/4942) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+4. 🎉 Merged PR [#3817](https://github.com/vuejs/awesome-vue/pull/3817) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+5. 💪 Opened PR [#4941](https://github.com/vuejs/vue-next/pull/4941) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!--END_SECTION:activity-->
       
 </td>
