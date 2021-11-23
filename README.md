@@ -15,10 +15,10 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4981](https://github.com/vuejs/vue-next/pull/4981) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-2. 🗣 Commented on [#4981](https://github.com/vuejs/vue-next/issues/4981) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-3. 🗣 Commented on [#851](https://github.com/vuejs/composition-api/issues/851) in [vuejs/composition-api](https://github.com/vuejs/composition-api)
-4. 🗣 Commented on [#4942](https://github.com/vuejs/vue-next/issues/4942) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+1. 🗣 Commented on [#4984](https://github.com/vuejs/vue-next/issues/4984) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+2. ❌ Closed PR [#4981](https://github.com/vuejs/vue-next/pull/4981) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+3. 🗣 Commented on [#4981](https://github.com/vuejs/vue-next/issues/4981) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+4. 🗣 Commented on [#851](https://github.com/vuejs/composition-api/issues/851) in [vuejs/composition-api](https://github.com/vuejs/composition-api)
 5. 🗣 Commented on [#4942](https://github.com/vuejs/vue-next/issues/4942) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!--END_SECTION:activity-->
       
