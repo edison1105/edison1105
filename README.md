@@ -16,10 +16,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5148](https://github.com/vuejs/vue-next/issues/5148) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-2. 💪 Opened PR [#5182](https://github.com/vuejs/vue-next/pull/5182) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-3. 💪 Opened PR [#5114](https://github.com/vuejs/vue-next/pull/5114) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-4. ❗️ Closed issue [#5064](https://github.com/vuejs/vue-next/issues/5064) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
-5. 🗣 Commented on [#5064](https://github.com/vuejs/vue-next/issues/5064) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+2. 🗣 Commented on [#5148](https://github.com/vuejs/vue-next/issues/5148) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+3. 💪 Opened PR [#5182](https://github.com/vuejs/vue-next/pull/5182) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+4. 💪 Opened PR [#5114](https://github.com/vuejs/vue-next/pull/5114) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
+5. ❗️ Closed issue [#5064](https://github.com/vuejs/vue-next/issues/5064) in [vuejs/vue-next](https://github.com/vuejs/vue-next)
 <!--END_SECTION:activity-->
       
 </td>
