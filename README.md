@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/HcySunYang/code-for-vue-3-book/issues/10) in [HcySunYang/code-for-vue-3-book](https://github.com/HcySunYang/code-for-vue-3-book)
-2. ❗️ Opened issue [#9](https://github.com/HcySunYang/code-for-vue-3-book/issues/9) in [HcySunYang/code-for-vue-3-book](https://github.com/HcySunYang/code-for-vue-3-book)
-3. ❗️ Opened issue [#8](https://github.com/HcySunYang/code-for-vue-3-book/issues/8) in [HcySunYang/code-for-vue-3-book](https://github.com/HcySunYang/code-for-vue-3-book)
-4. 💪 Opened PR [#5436](https://github.com/vuejs/core/pull/5436) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#5393](https://github.com/vuejs/core/issues/5393) in [vuejs/core](https://github.com/vuejs/core)
+1. 💪 Opened PR [#5459](https://github.com/vuejs/core/pull/5459) in [vuejs/core](https://github.com/vuejs/core)
+2. ❗️ Opened issue [#10](https://github.com/HcySunYang/code-for-vue-3-book/issues/10) in [HcySunYang/code-for-vue-3-book](https://github.com/HcySunYang/code-for-vue-3-book)
+3. ❗️ Opened issue [#9](https://github.com/HcySunYang/code-for-vue-3-book/issues/9) in [HcySunYang/code-for-vue-3-book](https://github.com/HcySunYang/code-for-vue-3-book)
+4. ❗️ Opened issue [#8](https://github.com/HcySunYang/code-for-vue-3-book/issues/8) in [HcySunYang/code-for-vue-3-book](https://github.com/HcySunYang/code-for-vue-3-book)
+5. 💪 Opened PR [#5436](https://github.com/vuejs/core/pull/5436) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
