@@ -29,4 +29,4 @@
 
 
 <img align="" width="57.5%" src="https://github-readme-stats.vercel.app/api?username=edison1105&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=434d58&bg_color=9ca3af14" /><img align="" width="42.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison1105&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=434d58&bg_color=9ca3af14" />
-<img align="" width="99.9%" src="http://activity-graph.herokuapp.com/graph?username=edison1105&theme=nord&color=41b883&point=41b883&hide_border=true&bg_color=273849&line=ffffff" />
+<img align="" width="99.9%" src="https://activity-graph.herokuapp.com/graph?username=edison1105&theme=nord&color=41b883&point=41b883&hide_border=true&line=434d58&title_color=41b883&icon_color=41b883&text_color=434d58&bg_color=9ca3af14" />
