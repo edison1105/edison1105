@@ -16,10 +16,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6025](https://github.com/vuejs/core/issues/6025) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#12544](https://github.com/vuejs/vue/issues/12544) in [vuejs/vue](https://github.com/vuejs/vue)
-3. 💪 Opened PR [#5974](https://github.com/vuejs/core/pull/5974) in [vuejs/core](https://github.com/vuejs/core)
-4. ❗️ Closed issue [#5965](https://github.com/vuejs/core/issues/5965) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#5946](https://github.com/vuejs/core/issues/5946) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#6025](https://github.com/vuejs/core/issues/6025) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#12544](https://github.com/vuejs/vue/issues/12544) in [vuejs/vue](https://github.com/vuejs/vue)
+4. 💪 Opened PR [#5974](https://github.com/vuejs/core/pull/5974) in [vuejs/core](https://github.com/vuejs/core)
+5. ❗️ Closed issue [#5965](https://github.com/vuejs/core/issues/5965) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
