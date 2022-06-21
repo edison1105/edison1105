@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/edison1105/edison1105/pull/2) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
-2. 💪 Opened PR [#2](https://github.com/edison1105/edison1105/pull/2) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
-3. ❌ Closed PR [#1](https://github.com/edison1105/edison1105/pull/1) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
-4. 💪 Opened PR [#1](https://github.com/edison1105/edison1105/pull/1) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
-5. ❌ Closed PR [#6025](https://github.com/vuejs/core/pull/6025) in [vuejs/core](https://github.com/vuejs/core)
+1. ❗️ Closed issue [#6151](https://github.com/vuejs/core/issues/6151) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#6151](https://github.com/vuejs/core/issues/6151) in [vuejs/core](https://github.com/vuejs/core)
+3. 🎉 Merged PR [#2](https://github.com/edison1105/edison1105/pull/2) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
+4. 💪 Opened PR [#2](https://github.com/edison1105/edison1105/pull/2) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
+5. ❌ Closed PR [#1](https://github.com/edison1105/edison1105/pull/1) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
 <!--END_SECTION:activity-->
       
 </td>
