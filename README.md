@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3932](https://github.com/vuejs/awesome-vue/pull/3932) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-2. 🗣 Commented on [#6194](https://github.com/vuejs/core/issues/6194) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#1809](https://github.com/vuejs/docs/issues/1809) in [vuejs/docs](https://github.com/vuejs/docs)
+1. 🗣 Commented on [#5525](https://github.com/vuejs/core/issues/5525) in [vuejs/core](https://github.com/vuejs/core)
+2. 🎉 Merged PR [#3932](https://github.com/vuejs/awesome-vue/pull/3932) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+3. 🗣 Commented on [#6194](https://github.com/vuejs/core/issues/6194) in [vuejs/core](https://github.com/vuejs/core)
 4. 🗣 Commented on [#1809](https://github.com/vuejs/docs/issues/1809) in [vuejs/docs](https://github.com/vuejs/docs)
-5. 🗣 Commented on [#6194](https://github.com/vuejs/core/issues/6194) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#1809](https://github.com/vuejs/docs/issues/1809) in [vuejs/docs](https://github.com/vuejs/docs)
 <!--END_SECTION:activity-->
       
 </td>
