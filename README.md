@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6349](https://github.com/vuejs/core/issues/6349) in [vuejs/core](https://github.com/vuejs/core)
-2. 🎉 Merged PR [#3941](https://github.com/vuejs/awesome-vue/pull/3941) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-3. 💪 Opened PR [#12687](https://github.com/vuejs/vue/pull/12687) in [vuejs/vue](https://github.com/vuejs/vue)
-4. ❗️ Closed issue [#6289](https://github.com/vuejs/core/issues/6289) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#6289](https://github.com/vuejs/core/issues/6289) in [vuejs/core](https://github.com/vuejs/core)
+1. ❗️ Closed issue [#6383](https://github.com/vuejs/core/issues/6383) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#6383](https://github.com/vuejs/core/issues/6383) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#6349](https://github.com/vuejs/core/issues/6349) in [vuejs/core](https://github.com/vuejs/core)
+4. 🎉 Merged PR [#3941](https://github.com/vuejs/awesome-vue/pull/3941) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+5. 💪 Opened PR [#12687](https://github.com/vuejs/vue/pull/12687) in [vuejs/vue](https://github.com/vuejs/vue)
 <!--END_SECTION:activity-->
       
 </td>
