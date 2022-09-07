@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6606](https://github.com/vuejs/core/pull/6606) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#6604](https://github.com/vuejs/core/issues/6604) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#6593](https://github.com/vuejs/core/issues/6593) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#6614](https://github.com/vuejs/core/issues/6614) in [vuejs/core](https://github.com/vuejs/core)
+2. 💪 Opened PR [#6606](https://github.com/vuejs/core/pull/6606) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#6604](https://github.com/vuejs/core/issues/6604) in [vuejs/core](https://github.com/vuejs/core)
 4. 🗣 Commented on [#6593](https://github.com/vuejs/core/issues/6593) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#6568](https://github.com/vuejs/core/issues/6568) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#6593](https://github.com/vuejs/core/issues/6593) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
