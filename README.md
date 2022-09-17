@@ -18,8 +18,8 @@
 1. 🗣 Commented on [#6669](https://github.com/vuejs/core/issues/6669) in [vuejs/core](https://github.com/vuejs/core)
 2. 🗣 Commented on [#6669](https://github.com/vuejs/core/issues/6669) in [vuejs/core](https://github.com/vuejs/core)
 3. 🗣 Commented on [#6669](https://github.com/vuejs/core/issues/6669) in [vuejs/core](https://github.com/vuejs/core)
-4. 🎉 Merged PR [#3878](https://github.com/vuejs/awesome-vue/pull/3878) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-5. 🗣 Commented on [#6663](https://github.com/vuejs/core/issues/6663) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#6669](https://github.com/vuejs/core/issues/6669) in [vuejs/core](https://github.com/vuejs/core)
+5. 🎉 Merged PR [#3878](https://github.com/vuejs/awesome-vue/pull/3878) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 <!--END_SECTION:activity-->
       
 </td>
