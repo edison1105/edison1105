@@ -17,9 +17,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6762](https://github.com/vuejs/core/issues/6762) in [vuejs/core](https://github.com/vuejs/core)
 2. 🗣 Commented on [#6762](https://github.com/vuejs/core/issues/6762) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#6738](https://github.com/vuejs/core/issues/6738) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#6693](https://github.com/vuejs/core/issues/6693) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#6669](https://github.com/vuejs/core/issues/6669) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#6762](https://github.com/vuejs/core/issues/6762) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#6738](https://github.com/vuejs/core/issues/6738) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#6693](https://github.com/vuejs/core/issues/6693) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
