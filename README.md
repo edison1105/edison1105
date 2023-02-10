@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7672](https://github.com/vuejs/core/issues/7672) in [vuejs/core](https://github.com/vuejs/core)
-2. ❗️ Closed issue [#7679](https://github.com/vuejs/core/issues/7679) in [vuejs/core](https://github.com/vuejs/core)
-3. 🎉 Merged PR [#13](https://github.com/happy-share-forever/tampermonkey-script/pull/13) in [happy-share-forever/tampermonkey-script](https://github.com/happy-share-forever/tampermonkey-script)
-4. 💪 Opened PR [#13](https://github.com/happy-share-forever/tampermonkey-script/pull/13) in [happy-share-forever/tampermonkey-script](https://github.com/happy-share-forever/tampermonkey-script)
-5. 🗣 Commented on [#7542](https://github.com/vuejs/core/issues/7542) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#7402](https://github.com/vuejs/core/issues/7402) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#7672](https://github.com/vuejs/core/issues/7672) in [vuejs/core](https://github.com/vuejs/core)
+3. ❗️ Closed issue [#7679](https://github.com/vuejs/core/issues/7679) in [vuejs/core](https://github.com/vuejs/core)
+4. 🎉 Merged PR [#13](https://github.com/happy-share-forever/tampermonkey-script/pull/13) in [happy-share-forever/tampermonkey-script](https://github.com/happy-share-forever/tampermonkey-script)
+5. 💪 Opened PR [#13](https://github.com/happy-share-forever/tampermonkey-script/pull/13) in [happy-share-forever/tampermonkey-script](https://github.com/happy-share-forever/tampermonkey-script)
 <!--END_SECTION:activity-->
       
 </td>
