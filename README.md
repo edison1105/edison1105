@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7432](https://github.com/vuejs/core/issues/7432) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#7402](https://github.com/vuejs/core/issues/7402) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#7672](https://github.com/vuejs/core/issues/7672) in [vuejs/core](https://github.com/vuejs/core)
-4. ❗️ Closed issue [#7679](https://github.com/vuejs/core/issues/7679) in [vuejs/core](https://github.com/vuejs/core)
-5. 🎉 Merged PR [#13](https://github.com/happy-share-forever/tampermonkey-script/pull/13) in [happy-share-forever/tampermonkey-script](https://github.com/happy-share-forever/tampermonkey-script)
+1. ❗️ Closed issue [#4009](https://github.com/vuejs/awesome-vue/issues/4009) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+2. 🗣 Commented on [#7432](https://github.com/vuejs/core/issues/7432) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#7402](https://github.com/vuejs/core/issues/7402) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#7672](https://github.com/vuejs/core/issues/7672) in [vuejs/core](https://github.com/vuejs/core)
+5. ❗️ Closed issue [#7679](https://github.com/vuejs/core/issues/7679) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
