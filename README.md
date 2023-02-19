@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/happy-share-forever/zentao-tampermonkey-script/pull/10) in [happy-share-forever/zentao-tampermonkey-script](https://github.com/happy-share-forever/zentao-tampermonkey-script)
-2. 🎉 Merged PR [#1](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/1) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-3. 💪 Opened PR [#1](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/1) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-4. ❗️ Closed issue [#7727](https://github.com/vuejs/core/issues/7727) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#7727](https://github.com/vuejs/core/issues/7727) in [vuejs/core](https://github.com/vuejs/core)
+1. ❌ Closed PR [#7622](https://github.com/vuejs/core/pull/7622) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#7622](https://github.com/vuejs/core/issues/7622) in [vuejs/core](https://github.com/vuejs/core)
+3. 🎉 Merged PR [#10](https://github.com/happy-share-forever/zentao-tampermonkey-script/pull/10) in [happy-share-forever/zentao-tampermonkey-script](https://github.com/happy-share-forever/zentao-tampermonkey-script)
+4. 🎉 Merged PR [#1](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/1) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+5. 💪 Opened PR [#1](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/1) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
 <!--END_SECTION:activity-->
       
 </td>
