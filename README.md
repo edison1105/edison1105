@@ -16,10 +16,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7797](https://github.com/vuejs/core/issues/7797) in [vuejs/core](https://github.com/vuejs/core)
-2. 🎉 Merged PR [#4015](https://github.com/vuejs/awesome-vue/pull/4015) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-3. 🗣 Commented on [#7789](https://github.com/vuejs/core/issues/7789) in [vuejs/core](https://github.com/vuejs/core)
-4. 💪 Opened PR [#7795](https://github.com/vuejs/core/pull/7795) in [vuejs/core](https://github.com/vuejs/core)
-5. ❗️ Closed issue [#7792](https://github.com/vuejs/core/issues/7792) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#7218](https://github.com/vuejs/core/issues/7218) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#7797](https://github.com/vuejs/core/issues/7797) in [vuejs/core](https://github.com/vuejs/core)
+4. 🎉 Merged PR [#4015](https://github.com/vuejs/awesome-vue/pull/4015) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+5. 🗣 Commented on [#7789](https://github.com/vuejs/core/issues/7789) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
