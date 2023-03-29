@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/awesome-chatgpt/awesome-chatgpt/issues/28) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-2. 🎉 Merged PR [#27](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/27) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-3. 🎉 Merged PR [#26](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/26) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-4. 🎉 Merged PR [#22](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/22) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-5. 🎉 Merged PR [#24](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/24) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+1. 🎉 Merged PR [#30](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/30) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+2. 🗣 Commented on [#28](https://github.com/awesome-chatgpt/awesome-chatgpt/issues/28) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+3. 🎉 Merged PR [#27](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/27) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+4. 🎉 Merged PR [#26](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/26) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+5. 🎉 Merged PR [#22](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/22) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
 <!--END_SECTION:activity-->
       
 </td>
