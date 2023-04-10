@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/60) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-2. 💪 Opened PR [#60](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/60) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-3. 🎉 Merged PR [#58](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/58) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-4. 💪 Opened PR [#58](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/58) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-5. 🎉 Merged PR [#57](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/57) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+1. 🎉 Merged PR [#61](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/61) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+2. 💪 Opened PR [#61](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/61) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+3. 🎉 Merged PR [#60](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/60) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+4. 💪 Opened PR [#60](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/60) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+5. 🎉 Merged PR [#58](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/58) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
 <!--END_SECTION:activity-->
       
 </td>
