@@ -16,10 +16,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8116](https://github.com/vuejs/core/issues/8116) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#78](https://github.com/awesome-chatgpt/awesome-chatgpt/issues/78) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-3. 🎉 Merged PR [#80](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/80) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-4. ❗️ Closed issue [#78](https://github.com/awesome-chatgpt/awesome-chatgpt/issues/78) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-5. 💪 Opened PR [#80](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/80) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+2. 🗣 Commented on [#8116](https://github.com/vuejs/core/issues/8116) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#78](https://github.com/awesome-chatgpt/awesome-chatgpt/issues/78) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+4. 🎉 Merged PR [#80](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/80) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+5. ❗️ Closed issue [#78](https://github.com/awesome-chatgpt/awesome-chatgpt/issues/78) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
 <!--END_SECTION:activity-->
       
 </td>
