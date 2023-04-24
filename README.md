@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/96) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-2. 💪 Opened PR [#96](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/96) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-3. 🎉 Merged PR [#95](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/95) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-4. 💪 Opened PR [#95](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/95) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-5. 🎉 Merged PR [#94](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/94) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+1. 🗣 Commented on [#6435](https://github.com/vuejs/core/issues/6435) in [vuejs/core](https://github.com/vuejs/core)
+2. 🎉 Merged PR [#96](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/96) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+3. 💪 Opened PR [#96](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/96) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+4. 🎉 Merged PR [#95](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/95) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+5. 💪 Opened PR [#95](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/95) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
 <!--END_SECTION:activity-->
       
 </td>
