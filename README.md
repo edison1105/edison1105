@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3154](https://github.com/vuejs/language-tools/issues/3154) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-2. 🗣 Commented on [#8259](https://github.com/vuejs/core/issues/8259) in [vuejs/core](https://github.com/vuejs/core)
-3. 🎉 Merged PR [#121](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/121) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-4. 💪 Opened PR [#121](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/121) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-5. 🎉 Merged PR [#120](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/120) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+1. 🗣 Commented on [#8074](https://github.com/vuejs/core/issues/8074) in [vuejs/core](https://github.com/vuejs/core)
+2. ❗️ Opened issue [#3154](https://github.com/vuejs/language-tools/issues/3154) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+3. 🗣 Commented on [#8259](https://github.com/vuejs/core/issues/8259) in [vuejs/core](https://github.com/vuejs/core)
+4. 🎉 Merged PR [#121](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/121) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+5. 💪 Opened PR [#121](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/121) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
 <!--END_SECTION:activity-->
       
 </td>
