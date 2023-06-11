@@ -7,7 +7,7 @@
   <h3 align="left"> ❤ About Me </h3>
 
 - 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer. Interested in [vuejs](https://github.com/vuejs) / [dotnet](https://github.com/dotnet) / [nodejs](https://github.com/nodejs) / [TypeScript](https://github.com/microsoft/TypeScript)
-- 🌱 Currently focusing on [vue/core](https://github.com/vuejs/core)
+- 🌱 Keep Learning
 - 📫 Reach me: daiwei521@126.com
 - 💬 Ask me about everything
 </td>
