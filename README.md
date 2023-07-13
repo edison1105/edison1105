@@ -16,10 +16,10 @@
   
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#8741](https://github.com/vuejs/core/issues/8741) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#3154](https://github.com/vuejs/language-tools/issues/3154) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-3. 🗣 Commented on [#5836](https://github.com/vuejs/core/issues/5836) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#5836](https://github.com/vuejs/core/issues/5836) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#8716](https://github.com/vuejs/core/issues/8716) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#3154](https://github.com/vuejs/language-tools/issues/3154#issuecomment-1625427312) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+3. 🗣 Commented on [#5836](https://github.com/vuejs/core/issues/5836#issuecomment-1624635027) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#5836](https://github.com/vuejs/core/issues/5836#issuecomment-1624573639) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#8716](https://github.com/vuejs/core/issues/8716#issuecomment-1622770002) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
