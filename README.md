@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8785](https://github.com/vuejs/core/pull/8785) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#8764](https://github.com/vuejs/core/issues/8764#issuecomment-1635430688) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#8780](https://github.com/vuejs/core/issues/8780#issuecomment-1635192570) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#8780](https://github.com/vuejs/core/issues/8780#issuecomment-1635157538) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#8522](https://github.com/vuejs/core/issues/8522#issuecomment-1635145475) in [vuejs/core](https://github.com/vuejs/core)
+1. 🔒 Closed issue [#136](https://github.com/awesome-chatgpt/awesome-chatgpt/issues/136) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+2. 🗣 Commented on [#136](https://github.com/awesome-chatgpt/awesome-chatgpt/issues/136#issuecomment-1636968265) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+3. 🗣 Commented on [#8783](https://github.com/vuejs/core/issues/8783#issuecomment-1636967217) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#8785](https://github.com/vuejs/core/pull/8785) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#8764](https://github.com/vuejs/core/issues/8764#issuecomment-1635430688) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
