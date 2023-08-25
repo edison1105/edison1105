@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9039](https://github.com/vuejs/core/issues/9039) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#8976](https://github.com/vuejs/core/pull/8976#issuecomment-1692602905) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#9014](https://github.com/vuejs/core/issues/9014#issuecomment-1690957861) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#9025](https://github.com/vuejs/core/issues/9025#issuecomment-1690879484) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#9025](https://github.com/vuejs/core/issues/9025#issuecomment-1690833542) in [vuejs/core](https://github.com/vuejs/core)
+1. 🎉 Merged PR [#3](https://github.com/edison1105/drop-reactivity-transform/pull/3) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
+2. 💪 Opened PR [#3](https://github.com/edison1105/drop-reactivity-transform/pull/3) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
+3. ❗ Opened issue [#9039](https://github.com/vuejs/core/issues/9039) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#8976](https://github.com/vuejs/core/pull/8976#issuecomment-1692602905) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#9014](https://github.com/vuejs/core/issues/9014#issuecomment-1690957861) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
