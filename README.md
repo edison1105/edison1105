@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="top">
   <h3 align="left"> ❤ About Me </h3>
 
 - 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer. Interested in [vuejs](https://github.com/vuejs) / [dotnet](https://github.com/dotnet) / [nodejs](https://github.com/nodejs) / [TypeScript](https://github.com/microsoft/TypeScript)
@@ -11,7 +11,7 @@
 - 📫 Reach me: daiwei521@126.com
 - 💬 Ask me about everything
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="top">
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
