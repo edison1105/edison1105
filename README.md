@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/edison1105/edison1105/pull/4) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
-2. 🗣 Commented on [#4](https://github.com/edison1105/edison1105/pull/4#issuecomment-1784586764) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
-3. 🗣 Commented on [#9491](https://github.com/vuejs/core/issues/9491#issuecomment-1784582453) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#6463](https://github.com/vuejs/core/issues/6463#issuecomment-1783953570) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#9493](https://github.com/vuejs/core/issues/9493#issuecomment-1783740965) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#151](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/151#issuecomment-1784773346) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+2. 🎉 Merged PR [#151](https://github.com/awesome-chatgpt/awesome-chatgpt/pull/151) in [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
+3. ❌ Closed PR [#4](https://github.com/edison1105/edison1105/pull/4) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
+4. 🗣 Commented on [#4](https://github.com/edison1105/edison1105/pull/4#issuecomment-1784586764) in [edison1105/edison1105](https://github.com/edison1105/edison1105)
+5. 🗣 Commented on [#9491](https://github.com/vuejs/core/issues/9491#issuecomment-1784582453) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
