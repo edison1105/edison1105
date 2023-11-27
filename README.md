@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/edison1105/drop-reactivity-transform/issues/5#issuecomment-1825080753) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
-2. 🚀 Published release [v0.1.0](https://github.com/edison1105/drop-reactivity-transform/releases/tag/v0.1.0) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
-3. 🔒 Closed issue [#5](https://github.com/edison1105/drop-reactivity-transform/issues/5) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
-4. 🎉 Merged PR [#6](https://github.com/edison1105/drop-reactivity-transform/pull/6) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
-5. 💪 Opened PR [#6](https://github.com/edison1105/drop-reactivity-transform/pull/6) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
+1. 🗣 Commented on [#8868](https://github.com/vuejs/core/issues/8868#issuecomment-1827332824) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#5](https://github.com/edison1105/drop-reactivity-transform/issues/5#issuecomment-1825080753) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
+3. 🚀 Published release [v0.1.0](https://github.com/edison1105/drop-reactivity-transform/releases/tag/v0.1.0) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
+4. 🔒 Closed issue [#5](https://github.com/edison1105/drop-reactivity-transform/issues/5) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
+5. 🎉 Merged PR [#6](https://github.com/edison1105/drop-reactivity-transform/pull/6) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
 <!--END_SECTION:activity-->
       
 </td>
