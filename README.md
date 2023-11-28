@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5300](https://github.com/vuejs/core/issues/5300#issuecomment-1827497031) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#8868](https://github.com/vuejs/core/issues/8868#issuecomment-1827332824) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#5](https://github.com/edison1105/drop-reactivity-transform/issues/5#issuecomment-1825080753) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
-4. 🚀 Published release [v0.1.0](https://github.com/edison1105/drop-reactivity-transform/releases/tag/v0.1.0) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
-5. 🔒 Closed issue [#5](https://github.com/edison1105/drop-reactivity-transform/issues/5) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
+1. 🗣 Commented on [#8868](https://github.com/vuejs/core/issues/8868#issuecomment-1828938640) in [vuejs/core](https://github.com/vuejs/core)
+2. 💪 Opened PR [#9688](https://github.com/vuejs/core/pull/9688) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#5300](https://github.com/vuejs/core/issues/5300#issuecomment-1827497031) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#8868](https://github.com/vuejs/core/issues/8868#issuecomment-1827332824) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#5](https://github.com/edison1105/drop-reactivity-transform/issues/5#issuecomment-1825080753) in [edison1105/drop-reactivity-transform](https://github.com/edison1105/drop-reactivity-transform)
 <!--END_SECTION:activity-->
       
 </td>
