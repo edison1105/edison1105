@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/vitejs/vite-plugin-vue/issues/71#issuecomment-2370598640) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-2. 🔒 Closed issue [#71](https://github.com/vitejs/vite-plugin-vue/issues/71) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-3. 🗣 Commented on [#103](https://github.com/vitejs/vite-plugin-vue/issues/103#issuecomment-2370588080) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-4. 🗣 Commented on [#107](https://github.com/vitejs/vite-plugin-vue/issues/107#issuecomment-2370574818) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-5. 🔒 Closed issue [#110](https://github.com/vitejs/vite-plugin-vue/issues/110) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+1. 🔓 Reopened issue [#12012](https://github.com/vuejs/core/issues/12012) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#71](https://github.com/vitejs/vite-plugin-vue/issues/71#issuecomment-2370598640) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+3. 🔒 Closed issue [#71](https://github.com/vitejs/vite-plugin-vue/issues/71) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+4. 🗣 Commented on [#103](https://github.com/vitejs/vite-plugin-vue/issues/103#issuecomment-2370588080) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+5. 🗣 Commented on [#107](https://github.com/vitejs/vite-plugin-vue/issues/107#issuecomment-2370574818) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
 <!--END_SECTION:activity-->
       
 </td>
