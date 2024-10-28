@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6355](https://github.com/vuejs/core/pull/6355#issuecomment-2441646872) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#12280](https://github.com/vuejs/core/pull/12280#issuecomment-2440819851) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#12266](https://github.com/vuejs/core/pull/12266#issuecomment-2440792410) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#12279](https://github.com/vuejs/core/pull/12279#issuecomment-2440777139) in [vuejs/core](https://github.com/vuejs/core)
-5. ❗ Opened issue [#297](https://github.com/postcss/postcss-selector-parser/issues/297) in [postcss/postcss-selector-parser](https://github.com/postcss/postcss-selector-parser)
+1. 🗣 Commented on [#297](https://github.com/postcss/postcss-selector-parser/issues/297#issuecomment-2441764708) in [postcss/postcss-selector-parser](https://github.com/postcss/postcss-selector-parser)
+2. 🔒 Closed issue [#297](https://github.com/postcss/postcss-selector-parser/issues/297) in [postcss/postcss-selector-parser](https://github.com/postcss/postcss-selector-parser)
+3. 🗣 Commented on [#6355](https://github.com/vuejs/core/pull/6355#issuecomment-2441646872) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#12280](https://github.com/vuejs/core/pull/12280#issuecomment-2440819851) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#12266](https://github.com/vuejs/core/pull/12266#issuecomment-2440792410) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
