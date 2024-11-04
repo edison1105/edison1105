@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8803](https://github.com/vuejs/core/pull/8803#issuecomment-2454723315) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#12315](https://github.com/vuejs/core/issues/12315#issuecomment-2454717286) in [vuejs/core](https://github.com/vuejs/core)
-3. 💪 Opened PR [#12321](https://github.com/vuejs/core/pull/12321) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#9185](https://github.com/vuejs/core/issues/9185#issuecomment-2454147595) in [vuejs/core](https://github.com/vuejs/core)
-5. 🔒 Closed issue [#9185](https://github.com/vuejs/core/issues/9185) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#8803](https://github.com/vuejs/core/pull/8803#issuecomment-2454838245) in [vuejs/core](https://github.com/vuejs/core)
+2. 🎉 Merged PR [#469](https://github.com/vitejs/vite-plugin-vue/pull/469) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+3. 💪 Opened PR [#469](https://github.com/vitejs/vite-plugin-vue/pull/469) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+4. 🗣 Commented on [#8803](https://github.com/vuejs/core/pull/8803#issuecomment-2454723315) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#12315](https://github.com/vuejs/core/issues/12315#issuecomment-2454717286) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
