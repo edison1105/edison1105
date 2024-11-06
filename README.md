@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12330](https://github.com/vuejs/core/issues/12330#issuecomment-2457218548) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#8474](https://github.com/vuejs/core/issues/8474#issuecomment-2456674879) in [vuejs/core](https://github.com/vuejs/core)
-3. 🔒 Closed issue [#8474](https://github.com/vuejs/core/issues/8474) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#12327](https://github.com/vuejs/core/issues/12327#issuecomment-2456650171) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#423](https://github.com/vitejs/vite-plugin-vue/issues/423#issuecomment-2456634846) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+1. 🗣 Commented on [#12330](https://github.com/vuejs/core/issues/12330#issuecomment-2457300209) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#12330](https://github.com/vuejs/core/issues/12330#issuecomment-2457218548) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#8474](https://github.com/vuejs/core/issues/8474#issuecomment-2456674879) in [vuejs/core](https://github.com/vuejs/core)
+4. 🔒 Closed issue [#8474](https://github.com/vuejs/core/issues/8474) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#12327](https://github.com/vuejs/core/issues/12327#issuecomment-2456650171) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
