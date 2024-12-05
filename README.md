@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#301](https://github.com/vuejs/vue-vapor/pull/301) in [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
-2. 🗣 Commented on [#297](https://github.com/vuejs/vue-vapor/issues/297#issuecomment-2510389901) in [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
-3. 🗣 Commented on [#6034](https://github.com/vuejs/core/issues/6034#issuecomment-2510363287) in [vuejs/core](https://github.com/vuejs/core)
-4. 🔒 Closed issue [#6034](https://github.com/vuejs/core/issues/6034) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#6035](https://github.com/vuejs/core/issues/6035#issuecomment-2510361020) in [vuejs/core](https://github.com/vuejs/core)
+1. 🎉 Merged PR [#12493](https://github.com/vuejs/core/pull/12493) in [vuejs/core](https://github.com/vuejs/core)
+2. 🎉 Merged PR [#12492](https://github.com/vuejs/core/pull/12492) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#12491](https://github.com/vuejs/core/pull/12491#issuecomment-2518883980) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#301](https://github.com/vuejs/vue-vapor/pull/301) in [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
+5. 🗣 Commented on [#297](https://github.com/vuejs/vue-vapor/issues/297#issuecomment-2510389901) in [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
 <!--END_SECTION:activity-->
       
 </td>
