@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/vitejs/vite-plugin-vue/issues/485#issuecomment-2538056559) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-2. 💪 Opened PR [#12530](https://github.com/vuejs/core/pull/12530) in [vuejs/core](https://github.com/vuejs/core)
-3. 🔒 Closed issue [#12521](https://github.com/vuejs/core/issues/12521) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#12521](https://github.com/vuejs/core/issues/12521#issuecomment-2531830856) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#12520](https://github.com/vuejs/core/issues/12520#issuecomment-2531734633) in [vuejs/core](https://github.com/vuejs/core)
+1. ❌ Closed PR [#12530](https://github.com/vuejs/core/pull/12530) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#485](https://github.com/vitejs/vite-plugin-vue/issues/485#issuecomment-2538056559) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+3. 💪 Opened PR [#12530](https://github.com/vuejs/core/pull/12530) in [vuejs/core](https://github.com/vuejs/core)
+4. 🔒 Closed issue [#12521](https://github.com/vuejs/core/issues/12521) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#12521](https://github.com/vuejs/core/issues/12521#issuecomment-2531830856) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
