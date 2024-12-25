@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12610](https://github.com/vuejs/core/pull/12610) in [vuejs/core](https://github.com/vuejs/core)
-2. 💪 Opened PR [#20](https://github.com/vuejs/ecosystem-ci/pull/20) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
-3. 🎉 Merged PR [#493](https://github.com/vitejs/vite-plugin-vue/pull/493) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-4. 💪 Opened PR [#12607](https://github.com/vuejs/core/pull/12607) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#12575](https://github.com/vuejs/core/issues/12575#issuecomment-2561519719) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#12575](https://github.com/vuejs/core/issues/12575#issuecomment-2561878439) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#12612](https://github.com/vuejs/core/issues/12612#issuecomment-2561874435) in [vuejs/core](https://github.com/vuejs/core)
+3. 💪 Opened PR [#12610](https://github.com/vuejs/core/pull/12610) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#20](https://github.com/vuejs/ecosystem-ci/pull/20) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+5. 🎉 Merged PR [#493](https://github.com/vitejs/vite-plugin-vue/pull/493) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
 <!--END_SECTION:activity-->
       
 </td>
