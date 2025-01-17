@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12719](https://github.com/vuejs/core/pull/12719#issuecomment-2592826258) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#2437](https://github.com/vuejs/router/issues/2437#issuecomment-2592796042) in [vuejs/router](https://github.com/vuejs/router)
-3. 🎉 Merged PR [#503](https://github.com/vitejs/vite-plugin-vue/pull/503) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-4. 🎉 Merged PR [#489](https://github.com/vitejs/vite-plugin-vue/pull/489) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-5. 🎉 Merged PR [#502](https://github.com/vitejs/vite-plugin-vue/pull/502) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+1. 🗣 Commented on [#12732](https://github.com/vuejs/core/pull/12732#issuecomment-2597167194) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#12719](https://github.com/vuejs/core/pull/12719#issuecomment-2592826258) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#2437](https://github.com/vuejs/router/issues/2437#issuecomment-2592796042) in [vuejs/router](https://github.com/vuejs/router)
+4. 🎉 Merged PR [#503](https://github.com/vitejs/vite-plugin-vue/pull/503) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+5. 🎉 Merged PR [#489](https://github.com/vitejs/vite-plugin-vue/pull/489) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
 <!--END_SECTION:activity-->
       
 </td>
