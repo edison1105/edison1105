@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7325](https://github.com/vitest-dev/vitest/issues/7325#issuecomment-2604894832) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-2. ❗ Opened issue [#7325](https://github.com/vitest-dev/vitest/issues/7325) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-3. 💪 Opened PR [#12759](https://github.com/vuejs/core/pull/12759) in [vuejs/core](https://github.com/vuejs/core)
-4. 💪 Opened PR [#12756](https://github.com/vuejs/core/pull/12756) in [vuejs/core](https://github.com/vuejs/core)
-5. 🔒 Closed issue [#12755](https://github.com/vuejs/core/issues/12755) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#12764](https://github.com/vuejs/core/issues/12764#issuecomment-2606067311) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#7325](https://github.com/vitest-dev/vitest/issues/7325#issuecomment-2606061429) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+3. 🗣 Commented on [#7325](https://github.com/vitest-dev/vitest/issues/7325#issuecomment-2604894832) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+4. ❗ Opened issue [#7325](https://github.com/vitest-dev/vitest/issues/7325) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+5. 💪 Opened PR [#12759](https://github.com/vuejs/core/pull/12759) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
