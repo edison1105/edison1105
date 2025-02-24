@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9245](https://github.com/vuejs/core/issues/9245#issuecomment-2678324519) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#8144](https://github.com/vuejs/core/issues/8144#issuecomment-2678322098) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#12913](https://github.com/vuejs/core/pull/12913#issuecomment-2677887623) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#12913](https://github.com/vuejs/core/pull/12913#issuecomment-2677840273) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#5312](https://github.com/vuejs/core/issues/5312#issuecomment-2677812691) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#12938](https://github.com/vuejs/core/issues/12938#issuecomment-2678349469) in [vuejs/core](https://github.com/vuejs/core)
+2. 🔒 Closed issue [#12938](https://github.com/vuejs/core/issues/12938) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#9245](https://github.com/vuejs/core/issues/9245#issuecomment-2678324519) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#8144](https://github.com/vuejs/core/issues/8144#issuecomment-2678322098) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#12913](https://github.com/vuejs/core/pull/12913#issuecomment-2677887623) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
