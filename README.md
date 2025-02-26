@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12946](https://github.com/vuejs/core/issues/12946#issuecomment-2683606161) in [vuejs/core](https://github.com/vuejs/core)
-2. 🎉 Merged PR [#12944](https://github.com/vuejs/core/pull/12944) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#12942](https://github.com/vuejs/core/pull/12942#issuecomment-2681960935) in [vuejs/core](https://github.com/vuejs/core)
-4. 🎉 Merged PR [#12943](https://github.com/vuejs/core/pull/12943) in [vuejs/core](https://github.com/vuejs/core)
-5. 💪 Opened PR [#12943](https://github.com/vuejs/core/pull/12943) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#12947](https://github.com/vuejs/core/issues/12947#issuecomment-2683675655) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#2920](https://github.com/vuejs/pinia/issues/2920#issuecomment-2683666746) in [vuejs/pinia](https://github.com/vuejs/pinia)
+3. 💪 Opened PR [#12948](https://github.com/vuejs/core/pull/12948) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#12946](https://github.com/vuejs/core/issues/12946#issuecomment-2683606161) in [vuejs/core](https://github.com/vuejs/core)
+5. 🎉 Merged PR [#12944](https://github.com/vuejs/core/pull/12944) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
