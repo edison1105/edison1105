@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#548](https://github.com/vitejs/vite-plugin-vue/pull/548) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-2. 💪 Opened PR [#548](https://github.com/vitejs/vite-plugin-vue/pull/548) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
-3. 🎉 Merged PR [#13051](https://github.com/vuejs/core/pull/13051) in [vuejs/core](https://github.com/vuejs/core)
-4. 🎉 Merged PR [#13050](https://github.com/vuejs/core/pull/13050) in [vuejs/core](https://github.com/vuejs/core)
-5. 🎉 Merged PR [#13048](https://github.com/vuejs/core/pull/13048) in [vuejs/core](https://github.com/vuejs/core)
+1. 🔒 Closed issue [#547](https://github.com/vitejs/vite-plugin-vue/issues/547) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+2. 🎉 Merged PR [#548](https://github.com/vitejs/vite-plugin-vue/pull/548) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+3. 💪 Opened PR [#548](https://github.com/vitejs/vite-plugin-vue/pull/548) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+4. 🎉 Merged PR [#13051](https://github.com/vuejs/core/pull/13051) in [vuejs/core](https://github.com/vuejs/core)
+5. 🎉 Merged PR [#13050](https://github.com/vuejs/core/pull/13050) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
