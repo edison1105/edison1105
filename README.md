@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13121](https://github.com/vuejs/core/pull/13121) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#13113](https://github.com/vuejs/core/pull/13113#issuecomment-2764828440) in [vuejs/core](https://github.com/vuejs/core)
-3. ❌ Closed PR [#13118](https://github.com/vuejs/core/pull/13118) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#13118](https://github.com/vuejs/core/pull/13118#issuecomment-2764348560) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#13118](https://github.com/vuejs/core/pull/13118#issuecomment-2764346354) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#13001](https://github.com/vuejs/core/pull/13001#issuecomment-2765244721) in [vuejs/core](https://github.com/vuejs/core)
+2. 🎉 Merged PR [#24](https://github.com/vuejs/ecosystem-ci/pull/24) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+3. 💪 Opened PR [#24](https://github.com/vuejs/ecosystem-ci/pull/24) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+4. 🎉 Merged PR [#13121](https://github.com/vuejs/core/pull/13121) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#13113](https://github.com/vuejs/core/pull/13113#issuecomment-2764828440) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
