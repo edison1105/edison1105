@@ -15,10 +15,10 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13120](https://github.com/vuejs/core/pull/13120) in [vuejs/core](https://github.com/vuejs/core)
-2. 🎉 Merged PR [#13122](https://github.com/vuejs/core/pull/13122) in [vuejs/core](https://github.com/vuejs/core)
-3. 🎉 Merged PR [#13123](https://github.com/vuejs/core/pull/13123) in [vuejs/core](https://github.com/vuejs/core)
-4. 🔒 Closed issue [#5705](https://github.com/vuejs/core/issues/5705) in [vuejs/core](https://github.com/vuejs/core)
+1. 🎉 Merged PR [#169](https://github.com/awesome-gptX/awesome-gpt/pull/169) in [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt)
+2. 🎉 Merged PR [#13120](https://github.com/vuejs/core/pull/13120) in [vuejs/core](https://github.com/vuejs/core)
+3. 🎉 Merged PR [#13122](https://github.com/vuejs/core/pull/13122) in [vuejs/core](https://github.com/vuejs/core)
+4. 🎉 Merged PR [#13123](https://github.com/vuejs/core/pull/13123) in [vuejs/core](https://github.com/vuejs/core)
 5. 🔒 Closed issue [#5705](https://github.com/vuejs/core/issues/5705) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
