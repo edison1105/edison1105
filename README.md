@@ -18,8 +18,8 @@
 1. 🗣 Commented on [#13737](https://github.com/vuejs/core/pull/13737#issuecomment-3157123034) in [vuejs/core](https://github.com/vuejs/core)
 2. 🔒 Closed issue [#13738](https://github.com/vuejs/core/issues/13738) in [vuejs/core](https://github.com/vuejs/core)
 3. 🗣 Commented on [#13738](https://github.com/vuejs/core/issues/13738#issuecomment-3157113461) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#13732](https://github.com/vuejs/core/issues/13732#issuecomment-3148908889) in [vuejs/core](https://github.com/vuejs/core)
-5. 🔒 Closed issue [#13719](https://github.com/vuejs/core/issues/13719) in [vuejs/core](https://github.com/vuejs/core)
+4. ❌ Labeled PR [#13737](undefined) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#13737](https://github.com/vuejs/core/pull/13737#issuecomment-3154517601) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
