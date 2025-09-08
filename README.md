@@ -16,10 +16,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13817](https://github.com/vuejs/core/pull/13817#issuecomment-3265447022) in [vuejs/core](https://github.com/vuejs/core)
-2. 🎉 Merged PR [#13850](https://github.com/vuejs/core/pull/13850) in [vuejs/core](https://github.com/vuejs/core)
-3. 🔒 Closed issue [#13852](https://github.com/vuejs/core/issues/13852) in [vuejs/core](https://github.com/vuejs/core)
-4. 🔒 Closed issue [#13851](https://github.com/vuejs/core/issues/13851) in [vuejs/core](https://github.com/vuejs/core)
-5. 💪 Opened PR [#13848](https://github.com/vuejs/core/pull/13848) in [vuejs/core](https://github.com/vuejs/core)
+2.  Labeled issue [#13847](https://github.com/vuejs/core/issues/13847) in [vuejs/core](https://github.com/vuejs/core)
+3. ❌ Labeled PR [#13853](undefined) in [vuejs/core](https://github.com/vuejs/core)
+4. ❌ Labeled PR [#13853](undefined) in [vuejs/core](https://github.com/vuejs/core)
+5. 🔒 Closed issue [#13852](https://github.com/vuejs/core/issues/13852) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
