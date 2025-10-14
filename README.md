@@ -17,9 +17,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13959](https://github.com/vuejs/core/pull/13959#issuecomment-3399985779) in [vuejs/core](https://github.com/vuejs/core)
 2. 🗣 Commented on [#13934](https://github.com/vuejs/core/pull/13934#issuecomment-3399902207) in [vuejs/core](https://github.com/vuejs/core)
-3. 💪 Opened PR [#13986](https://github.com/vuejs/core/pull/13986) in [vuejs/core](https://github.com/vuejs/core)
-4. 🎉 Merged PR [#13976](https://github.com/vuejs/core/pull/13976) in [vuejs/core](https://github.com/vuejs/core)
-5. 🔒 Closed issue [#13977](https://github.com/vuejs/core/issues/13977) in [vuejs/core](https://github.com/vuejs/core)
+3. 🔒 Closed issue [#13980](https://github.com/vuejs/core/issues/13980) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#73](undefined) in [vuejs/v3-migration-guide](https://github.com/vuejs/v3-migration-guide)
+5. ❌ Labeled PR [#13986](undefined) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
