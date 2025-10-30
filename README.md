@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#14017](undefined) in [vuejs/core](https://github.com/vuejs/core)
-2. ❌ Labeled PR [#14017](undefined) in [vuejs/core](https://github.com/vuejs/core)
-3. ❌ Labeled PR [#14017](undefined) in [vuejs/core](https://github.com/vuejs/core)
-4. 💪 Opened PR [#14023](undefined) in [vuejs/core](https://github.com/vuejs/core)
-5. 💪 Opened PR [#14017](undefined) in [vuejs/core](https://github.com/vuejs/core)
+1. ❌ Closed PR [#14036](undefined) in [vuejs/core](https://github.com/vuejs/core)
+2. 💪 Opened PR [#14036](undefined) in [vuejs/core](https://github.com/vuejs/core)
+3.  Labeled issue [#14031](https://github.com/vuejs/core/issues/14031) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#14024](https://github.com/vuejs/core/issues/14024#issuecomment-3465731462) in [vuejs/core](https://github.com/vuejs/core)
+5. 🔒 Closed issue [#14024](https://github.com/vuejs/core/issues/14024) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
