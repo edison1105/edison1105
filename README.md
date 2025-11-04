@@ -16,10 +16,10 @@
   
 <!--START_SECTION:activity-->
 1.  Labeled issue [#14052](https://github.com/vuejs/core/issues/14052) in [vuejs/core](https://github.com/vuejs/core)
-2.  Labeled issue [#14052](https://github.com/vuejs/core/issues/14052) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#14051](https://github.com/vuejs/core/issues/14051#issuecomment-3484404888) in [vuejs/core](https://github.com/vuejs/core)
-4. 🔒 Closed issue [#14051](https://github.com/vuejs/core/issues/14051) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#6108](https://github.com/vuejs/core/pull/6108#issuecomment-3484240221) in [vuejs/core](https://github.com/vuejs/core)
+2.  Unlabeled issue [#14052](https://github.com/vuejs/core/issues/14052) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#14052](https://github.com/vuejs/core/issues/14052#issuecomment-3484695925) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#14051](https://github.com/vuejs/core/issues/14051#issuecomment-3484624689) in [vuejs/core](https://github.com/vuejs/core)
+5. 🔒 Closed issue [#14051](https://github.com/vuejs/core/issues/14051) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
