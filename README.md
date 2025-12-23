@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7634](https://github.com/rolldown/rolldown/issues/7634) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-2. 🗣 Commented on [#13599](https://github.com/vuejs/core/pull/13599#issuecomment-3684768482) in [vuejs/core](https://github.com/vuejs/core)
-3. ❌ Labeled PR [#14237](undefined) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#14237](https://github.com/vuejs/core/pull/14237#issuecomment-3684651413) in [vuejs/core](https://github.com/vuejs/core)
-5. ❌ Labeled PR [#14237](undefined) in [vuejs/core](https://github.com/vuejs/core)
+1. 🔓 Reopened issue [#14236](https://github.com/vuejs/core/issues/14236) in [vuejs/core](https://github.com/vuejs/core)
+2. ❗ Opened issue [#7634](https://github.com/rolldown/rolldown/issues/7634) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+3. 🗣 Commented on [#13599](https://github.com/vuejs/core/pull/13599#issuecomment-3684768482) in [vuejs/core](https://github.com/vuejs/core)
+4. ❌ Labeled PR [#14237](undefined) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#14237](https://github.com/vuejs/core/pull/14237#issuecomment-3684651413) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
