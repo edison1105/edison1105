@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14302](https://github.com/vuejs/core/pull/14302#issuecomment-3732923867) in [vuejs/core](https://github.com/vuejs/core)
-2. ℹ️ Unlabeled PR [#14302](https://github.com/vuejs/core/pull/14302) in [vuejs/core](https://github.com/vuejs/core)
-3. ℹ️ Labeled PR [#14302](https://github.com/vuejs/core/pull/14302) in [vuejs/core](https://github.com/vuejs/core)
-4. 💪 Opened PR [#160](https://github.com/sxzz/rolldown-plugin-dts/pull/160) in [sxzz/rolldown-plugin-dts](https://github.com/sxzz/rolldown-plugin-dts)
-5. 🗣 Commented on [#14240](https://github.com/vuejs/core/pull/14240#issuecomment-3727334748) in [vuejs/core](https://github.com/vuejs/core)
+1. ℹ️ Unlabeled PR [#14150](https://github.com/vuejs/core/pull/14150) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#14302](https://github.com/vuejs/core/pull/14302#issuecomment-3732923867) in [vuejs/core](https://github.com/vuejs/core)
+3. ℹ️ Unlabeled PR [#14302](https://github.com/vuejs/core/pull/14302) in [vuejs/core](https://github.com/vuejs/core)
+4. ℹ️ Labeled PR [#14302](https://github.com/vuejs/core/pull/14302) in [vuejs/core](https://github.com/vuejs/core)
+5. 💪 Opened PR [#160](https://github.com/sxzz/rolldown-plugin-dts/pull/160) in [sxzz/rolldown-plugin-dts](https://github.com/sxzz/rolldown-plugin-dts)
 <!--END_SECTION:activity-->
       
 </td>
