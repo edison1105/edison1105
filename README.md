@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7919](https://github.com/rolldown/rolldown/issues/7919#issuecomment-3758332385) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-2. ℹ️ Labeled issue [#14323](https://github.com/vuejs/core/issues/14323) in [vuejs/core](https://github.com/vuejs/core)
-3. ℹ️ Labeled issue [#7919](https://github.com/rolldown/rolldown/issues/7919) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-4. ❗ Opened issue [#7919](https://github.com/rolldown/rolldown/issues/7919) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-5. ℹ️ Unlabeled PR [#14326](https://github.com/vuejs/core/pull/14326) in [vuejs/core](https://github.com/vuejs/core)
+1. ℹ️ Labeled PR [#14327](https://github.com/vuejs/core/pull/14327) in [vuejs/core](https://github.com/vuejs/core)
+2. ℹ️ Labeled PR [#14327](https://github.com/vuejs/core/pull/14327) in [vuejs/core](https://github.com/vuejs/core)
+3. ℹ️ Labeled PR [#14327](https://github.com/vuejs/core/pull/14327) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#14327](https://github.com/vuejs/core/pull/14327) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#7919](https://github.com/rolldown/rolldown/issues/7919#issuecomment-3758332385) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
 <!--END_SECTION:activity-->
       
 </td>
