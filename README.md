@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34113](https://github.com/nuxt/nuxt/pull/34113) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-2. ❌ Closed PR [#1](https://github.com/edison1105/nuxt/pull/1) in [edison1105/nuxt](https://github.com/edison1105/nuxt)
-3. 💪 Opened PR [#1](https://github.com/edison1105/nuxt/pull/1) in [edison1105/nuxt](https://github.com/edison1105/nuxt)
-4. 🎉 Merged PR [#45](https://github.com/vuejs/ecosystem-ci/pull/45) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
-5. 💪 Opened PR [#45](https://github.com/vuejs/ecosystem-ci/pull/45) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+1. 🔒 Closed issue [#14333](https://github.com/vuejs/core/issues/14333) in [vuejs/core](https://github.com/vuejs/core)
+2. 🗣 Commented on [#14333](https://github.com/vuejs/core/issues/14333#issuecomment-3767054228) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#14332](https://github.com/vuejs/core/pull/14332#issuecomment-3766986937) in [vuejs/core](https://github.com/vuejs/core)
+4. 🎉 Merged PR [#46](https://github.com/vuejs/ecosystem-ci/pull/46) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+5. 💪 Opened PR [#46](https://github.com/vuejs/ecosystem-ci/pull/46) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
 <!--END_SECTION:activity-->
       
 </td>
