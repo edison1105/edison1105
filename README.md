@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/vuejs/ecosystem-ci/pull/49) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
-2. 🎉 Merged PR [#48](https://github.com/vuejs/ecosystem-ci/pull/48) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
-3. 💪 Opened PR [#48](https://github.com/vuejs/ecosystem-ci/pull/48) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
-4. 🎉 Merged PR [#47](https://github.com/vuejs/ecosystem-ci/pull/47) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
-5. 💪 Opened PR [#47](https://github.com/vuejs/ecosystem-ci/pull/47) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+1. 💪 Opened PR [#50](https://github.com/vuejs/ecosystem-ci/pull/50) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+2. 🎉 Merged PR [#49](https://github.com/vuejs/ecosystem-ci/pull/49) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+3. 💪 Opened PR [#49](https://github.com/vuejs/ecosystem-ci/pull/49) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+4. 🎉 Merged PR [#48](https://github.com/vuejs/ecosystem-ci/pull/48) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
+5. 💪 Opened PR [#48](https://github.com/vuejs/ecosystem-ci/pull/48) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
 <!--END_SECTION:activity-->
       
 </td>
