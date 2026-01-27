@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled PR [#14363](https://github.com/vuejs/core/pull/14363) in [vuejs/core](https://github.com/vuejs/core)
-2. ℹ️ Labeled PR [#14363](https://github.com/vuejs/core/pull/14363) in [vuejs/core](https://github.com/vuejs/core)
+1. ℹ️ Labeled PR [#14363](https://github.com/vuejs/core/pull/14363) in [vuejs/core](https://github.com/vuejs/core)
+2. ℹ️ Unlabeled PR [#14363](https://github.com/vuejs/core/pull/14363) in [vuejs/core](https://github.com/vuejs/core)
 3. ℹ️ Labeled PR [#14363](https://github.com/vuejs/core/pull/14363) in [vuejs/core](https://github.com/vuejs/core)
 4. ℹ️ Labeled PR [#14363](https://github.com/vuejs/core/pull/14363) in [vuejs/core](https://github.com/vuejs/core)
-5. ❗ Opened issue [#2](https://github.com/rolldown/rolldown-plugin-node-polyfills/issues/2) in [rolldown/rolldown-plugin-node-polyfills](https://github.com/rolldown/rolldown-plugin-node-polyfills)
+5. ℹ️ Labeled PR [#14363](https://github.com/vuejs/core/pull/14363) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
