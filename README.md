@@ -15,10 +15,10 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14239](https://github.com/vuejs/core/pull/14239) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#14359](https://github.com/vuejs/core/pull/14359#issuecomment-3802486865) in [vuejs/core](https://github.com/vuejs/core)
-3. 🗣 Commented on [#14360](https://github.com/vuejs/core/pull/14360#issuecomment-3802486088) in [vuejs/core](https://github.com/vuejs/core)
-4. ℹ️ Labeled PR [#14362](https://github.com/vuejs/core/pull/14362) in [vuejs/core](https://github.com/vuejs/core)
+1. ❗ Opened issue [#2](https://github.com/rolldown/rolldown-plugin-node-polyfills/issues/2) in [rolldown/rolldown-plugin-node-polyfills](https://github.com/rolldown/rolldown-plugin-node-polyfills)
+2. 🎉 Merged PR [#14239](https://github.com/vuejs/core/pull/14239) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#14359](https://github.com/vuejs/core/pull/14359#issuecomment-3802486865) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#14360](https://github.com/vuejs/core/pull/14360#issuecomment-3802486088) in [vuejs/core](https://github.com/vuejs/core)
 5. ℹ️ Labeled PR [#14362](https://github.com/vuejs/core/pull/14362) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
