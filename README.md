@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14445](https://github.com/vuejs/core/pull/14445) in [vuejs/core](https://github.com/vuejs/core)
-2. 💪 Opened PR [#57](https://github.com/vuejs/ecosystem-ci/pull/57) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
-3. 🗣 Commented on [#14443](https://github.com/vuejs/core/pull/14443#issuecomment-3881699986) in [vuejs/core](https://github.com/vuejs/core)
-4. ℹ️ Labeled PR [#14443](https://github.com/vuejs/core/pull/14443) in [vuejs/core](https://github.com/vuejs/core)
-5. ℹ️ Unlabeled PR [#14443](https://github.com/vuejs/core/pull/14443) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#14445](https://github.com/vuejs/core/pull/14445#issuecomment-3883441768) in [vuejs/core](https://github.com/vuejs/core)
+2. ℹ️ Labeled PR [#14445](https://github.com/vuejs/core/pull/14445) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#33644](https://github.com/nuxt/nuxt/issues/33644#issuecomment-3883368735) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+4. 💪 Opened PR [#14445](https://github.com/vuejs/core/pull/14445) in [vuejs/core](https://github.com/vuejs/core)
+5. 💪 Opened PR [#57](https://github.com/vuejs/ecosystem-ci/pull/57) in [vuejs/ecosystem-ci](https://github.com/vuejs/ecosystem-ci)
 <!--END_SECTION:activity-->
       
 </td>
