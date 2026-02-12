@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#14446](https://github.com/vuejs/core/issues/14446) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#14446](https://github.com/vuejs/core/issues/14446#issuecomment-3888165940) in [vuejs/core](https://github.com/vuejs/core)
-3. 💪 Opened PR [#34319](https://github.com/nuxt/nuxt/pull/34319) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-4. ❌ Closed PR [#2](https://github.com/edison1105/nuxt/pull/2) in [edison1105/nuxt](https://github.com/edison1105/nuxt)
-5. 💪 Opened PR [#2](https://github.com/edison1105/nuxt/pull/2) in [edison1105/nuxt](https://github.com/edison1105/nuxt)
+1. 🗣 Commented on [#14445](https://github.com/vuejs/core/pull/14445#issuecomment-3888461148) in [vuejs/core](https://github.com/vuejs/core)
+2. ℹ️ Labeled issue [#14446](https://github.com/vuejs/core/issues/14446) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#14446](https://github.com/vuejs/core/issues/14446#issuecomment-3888165940) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#34319](https://github.com/nuxt/nuxt/pull/34319) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+5. ❌ Closed PR [#2](https://github.com/edison1105/nuxt/pull/2) in [edison1105/nuxt](https://github.com/edison1105/nuxt)
 <!--END_SECTION:activity-->
       
 </td>
