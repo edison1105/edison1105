@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14511](https://github.com/vuejs/core/pull/14511) in [vuejs/core](https://github.com/vuejs/core)
-2. 💪 Opened PR [#14510](https://github.com/vuejs/core/pull/14510) in [vuejs/core](https://github.com/vuejs/core)
-3. 🔒 Closed issue [#14509](https://github.com/vuejs/core/issues/14509) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#14509](https://github.com/vuejs/core/issues/14509#issuecomment-3989400511) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#14508](https://github.com/vuejs/core/issues/14508#issuecomment-3988033625) in [vuejs/core](https://github.com/vuejs/core)
+1. 🎉 Merged PR [#14513](https://github.com/vuejs/core/pull/14513) in [vuejs/core](https://github.com/vuejs/core)
+2. ℹ️ Labeled PR [#14513](https://github.com/vuejs/core/pull/14513) in [vuejs/core](https://github.com/vuejs/core)
+3. ℹ️ Labeled PR [#14513](https://github.com/vuejs/core/pull/14513) in [vuejs/core](https://github.com/vuejs/core)
+4. 💪 Opened PR [#14513](https://github.com/vuejs/core/pull/14513) in [vuejs/core](https://github.com/vuejs/core)
+5. 🎉 Merged PR [#14512](https://github.com/vuejs/core/pull/14512) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
