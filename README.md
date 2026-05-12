@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.6](https://github.com/edison1105/vite-plugin-vue-type-resolver/releases/tag/v0.0.6) in [edison1105/vite-plugin-vue-type-resolver](https://github.com/edison1105/vite-plugin-vue-type-resolver)
-2. 🔒 Closed issue [#2](https://github.com/edison1105/vite-plugin-vue-type-resolver/issues/2) in [edison1105/vite-plugin-vue-type-resolver](https://github.com/edison1105/vite-plugin-vue-type-resolver)
-3. 🗣 Commented on [#2](https://github.com/edison1105/vite-plugin-vue-type-resolver/issues/2#issuecomment-4426077282) in [edison1105/vite-plugin-vue-type-resolver](https://github.com/edison1105/vite-plugin-vue-type-resolver)
-4. 🗣 Commented on [#1](https://github.com/edison1105/vite-plugin-vue-type-resolver/issues/1#issuecomment-4426076002) in [edison1105/vite-plugin-vue-type-resolver](https://github.com/edison1105/vite-plugin-vue-type-resolver)
-5. 🔒 Closed issue [#1](https://github.com/edison1105/vite-plugin-vue-type-resolver/issues/1) in [edison1105/vite-plugin-vue-type-resolver](https://github.com/edison1105/vite-plugin-vue-type-resolver)
+1. 🗣 Commented on [#14805](https://github.com/vuejs/core/pull/14805#issuecomment-4426799500) in [vuejs/core](https://github.com/vuejs/core)
+2. ℹ️ Labeled PR [#14805](https://github.com/vuejs/core/pull/14805) in [vuejs/core](https://github.com/vuejs/core)
+3. ℹ️ Labeled PR [#14805](https://github.com/vuejs/core/pull/14805) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#14804](https://github.com/vuejs/core/pull/14804#issuecomment-4426797257) in [vuejs/core](https://github.com/vuejs/core)
+5. ℹ️ Labeled PR [#14804](https://github.com/vuejs/core/pull/14804) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
