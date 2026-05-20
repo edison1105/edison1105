@@ -17,8 +17,8 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#14866](https://github.com/vuejs/core/pull/14866) in [vuejs/core](https://github.com/vuejs/core)
 2. 🗣 Commented on [#14852](https://github.com/vuejs/core/pull/14852#issuecomment-4496290511) in [vuejs/core](https://github.com/vuejs/core)
-3. ℹ️ Labeled PR [#14861](https://github.com/vuejs/core/pull/14861) in [vuejs/core](https://github.com/vuejs/core)
-4. ℹ️ Unlabeled PR [#14861](https://github.com/vuejs/core/pull/14861) in [vuejs/core](https://github.com/vuejs/core)
+3. ℹ️ Unlabeled PR [#14861](https://github.com/vuejs/core/pull/14861) in [vuejs/core](https://github.com/vuejs/core)
+4. ℹ️ Labeled PR [#14861](https://github.com/vuejs/core/pull/14861) in [vuejs/core](https://github.com/vuejs/core)
 5. 🎉 Merged PR [#14863](https://github.com/vuejs/core/pull/14863) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
