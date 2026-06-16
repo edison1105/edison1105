@@ -8,7 +8,7 @@
 
 - 👨‍👩‍👧‍👧 A member of [**@vuejs**](https://github.com/vuejs?type=source), full-stack developer. Interested in [vuejs](https://github.com/vuejs) / [dotnet](https://github.com/dotnet) / [nodejs](https://github.com/nodejs) / [TypeScript](https://github.com/microsoft/TypeScript)
 - 🌱 Keep Learning
-- 📫 Reach me: edison11051@gmail.com
+- 📫 Reach me: edison80406010@gmail.com
 - 💬 Ask me about everything
 </td>
 <td width="50%" valign="top">
