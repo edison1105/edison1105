@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8342](https://github.com/vuejs/core/issues/8342) in [vuejs/core](https://github.com/vuejs/core)
-2. 🔒 Closed issue [#8334](https://github.com/vuejs/core/issues/8334) in [vuejs/core](https://github.com/vuejs/core)
-3. 🔒 Closed issue [#14966](https://github.com/vuejs/core/issues/14966) in [vuejs/core](https://github.com/vuejs/core)
-4. 🔒 Closed issue [#14993](https://github.com/vuejs/core/issues/14993) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#8338](https://github.com/vuejs/core/pull/8338#issuecomment-4797247031) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#15017](https://github.com/vuejs/core/pull/15017#issuecomment-4806227548) in [vuejs/core](https://github.com/vuejs/core)
+2. ❌ Closed PR [#15017](https://github.com/vuejs/core/pull/15017) in [vuejs/core](https://github.com/vuejs/core)
+3. ℹ️ Labeled issue [#15016](https://github.com/vuejs/core/issues/15016) in [vuejs/core](https://github.com/vuejs/core)
+4. 🗣 Commented on [#15011](https://github.com/vuejs/core/pull/15011#issuecomment-4805271012) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#15012](https://github.com/vuejs/core/pull/15012#issuecomment-4805270011) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
