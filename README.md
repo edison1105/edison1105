@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15144](https://github.com/vuejs/core/pull/15144) in [vuejs/core](https://github.com/vuejs/core)
-2. ℹ️ Labeled PR [#15144](https://github.com/vuejs/core/pull/15144) in [vuejs/core](https://github.com/vuejs/core)
-3. ℹ️ Labeled PR [#15144](https://github.com/vuejs/core/pull/15144) in [vuejs/core](https://github.com/vuejs/core)
+1. 🎉 Merged PR [#15145](https://github.com/vuejs/core/pull/15145) in [vuejs/core](https://github.com/vuejs/core)
+2. ℹ️ Labeled PR [#15145](https://github.com/vuejs/core/pull/15145) in [vuejs/core](https://github.com/vuejs/core)
+3. 💪 Opened PR [#15145](https://github.com/vuejs/core/pull/15145) in [vuejs/core](https://github.com/vuejs/core)
 4. ℹ️ Labeled PR [#15143](https://github.com/vuejs/core/pull/15143) in [vuejs/core](https://github.com/vuejs/core)
-5. 💪 Opened PR [#15144](https://github.com/vuejs/core/pull/15144) in [vuejs/core](https://github.com/vuejs/core)
+5. 🎉 Merged PR [#15144](https://github.com/vuejs/core/pull/15144) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
