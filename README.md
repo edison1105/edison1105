@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#15335](https://github.com/vuejs/core/pull/15335) in [vuejs/core](https://github.com/vuejs/core)
-2. 💪 Opened PR [#15335](https://github.com/vuejs/core/pull/15335) in [vuejs/core](https://github.com/vuejs/core)
-3. 💪 Opened PR [#2087](https://github.com/krausest/js-framework-benchmark/pull/2087) in [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
-4. 🎉 Merged PR [#15329](https://github.com/vuejs/core/pull/15329) in [vuejs/core](https://github.com/vuejs/core)
-5. 🗣 Commented on [#15333](https://github.com/vuejs/core/pull/15333#issuecomment-5363872935) in [vuejs/core](https://github.com/vuejs/core)
+1. ℹ️ Labeled PR [#15343](https://github.com/vuejs/core/pull/15343) in [vuejs/core](https://github.com/vuejs/core)
+2. 💪 Opened PR [#15343](https://github.com/vuejs/core/pull/15343) in [vuejs/core](https://github.com/vuejs/core)
+3. ℹ️ Labeled PR [#15342](https://github.com/vuejs/core/pull/15342) in [vuejs/core](https://github.com/vuejs/core)
+4. 🔒 Closed issue [#15339](https://github.com/vuejs/core/issues/15339) in [vuejs/core](https://github.com/vuejs/core)
+5. ℹ️ Labeled PR [#15341](https://github.com/vuejs/core/pull/15341) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
