@@ -15,11 +15,11 @@
   <h3 align="left"> :zap: Recent Activity </h3>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#16040](https://github.com/vuejs/core/issues/16040) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#16063](https://github.com/vuejs/core/pull/16063#issuecomment-6512339960) in [vuejs/core](https://github.com/vuejs/core)
-3. ℹ️ Labeled PR [#16063](https://github.com/vuejs/core/pull/16063) in [vuejs/core](https://github.com/vuejs/core)
-4. ℹ️ Labeled PR [#16063](https://github.com/vuejs/core/pull/16063) in [vuejs/core](https://github.com/vuejs/core)
-5. ℹ️ Labeled PR [#16063](https://github.com/vuejs/core/pull/16063) in [vuejs/core](https://github.com/vuejs/core)
+1. 🗣 Commented on [#16070](https://github.com/vuejs/core/pull/16070#issuecomment-6513841635) in [vuejs/core](https://github.com/vuejs/core)
+2. ❌ Closed PR [#16070](https://github.com/vuejs/core/pull/16070) in [vuejs/core](https://github.com/vuejs/core)
+3. 💪 Opened PR [#871](https://github.com/vitejs/vite-plugin-vue/pull/871) in [vitejs/vite-plugin-vue](https://github.com/vitejs/vite-plugin-vue)
+4. ℹ️ Labeled issue [#16040](https://github.com/vuejs/core/issues/16040) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#16063](https://github.com/vuejs/core/pull/16063#issuecomment-6512339960) in [vuejs/core](https://github.com/vuejs/core)
 <!--END_SECTION:activity-->
       
 </td>
